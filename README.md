@@ -11,10 +11,10 @@ Alzheimer types:
 
 Pythong libraries used:
 
-Pandas
-Numpy
-Pickle
-Sklearn
+Pandas,
+Numpy,
+Pickle,
+Sklearn.
 
 To install the packages :
 
