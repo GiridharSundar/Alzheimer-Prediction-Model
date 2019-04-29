@@ -23,3 +23,8 @@ To install the packages :
 
 eg. pip install pandas
 
+# TO RUN APP.PY
+
+1. Start cmd and open the directory where the project is located.
+2. run the command python app.py
+3. Start your browser and search localhost:5000
