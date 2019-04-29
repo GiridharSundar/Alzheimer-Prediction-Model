@@ -1,0 +1,32 @@
+ID - Identification
+M/F - Gender
+Hand - Dominant Hand
+Age - Age in years
+Educ - Education Level
+SES - Socioeconomic Status
+MMSE -Mini Mental State Examination
+CDR - Clinical Dementia Rating
+eTIV - Estimated Total Intracranial Volume
+nWBV - Normalize Whole Brain Volume
+ASF - Atlas Scaling Factor
+Delay
+
+
+#2
+
+
+Subject ID - Subject identification
+MRI ID - MRI Exam Identification
+Group - Class
+Visit - Visit Order
+MR Delay - MR Delay Time (Contrast)
+M/F
+Hand
+Age
+EDUC - Years of Education
+SES - Socioeconomic Status
+MMSE - Mini Mental State Examination
+CDR - Clinical Dementia Rating
+eTIV - Estimated total intracranial volume
+nWBV - Normalize Whole Brain Volume
+ASF - Atlas Scaling Factor
