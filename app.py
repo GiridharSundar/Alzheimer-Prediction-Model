@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import numpy as np
 import pickle
 
-fileObject = open('C:/Users/Giridhar Sundaram/Desktop/Alzheimer/kNeighbours.pickle','rb')
+fileObject = open('kNeighbours.pickle','rb')
 b = pickle.load(fileObject)
 app = Flask(__name__)
 
