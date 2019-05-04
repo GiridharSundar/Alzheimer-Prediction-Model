@@ -1,6 +1,6 @@
-# Alzheimer-paitent
+# Alzheimer-patient
 
-This project predicts wheather a paitent is affected by alzheimer, and type of alzheimer. 
+This project predicts wheather a patient is affected by alzheimer, and type of alzheimer. 
 Alzheimer types: 
 
 0 - NO MEMORY LOSS
@@ -9,7 +9,7 @@ Alzheimer types:
 2 - SEVERE MEMORY LOSS.
 
 
-Pythong libraries used:
+Python libraries used:
 
 Pandas,
 Numpy,
@@ -28,3 +28,7 @@ eg. pip install pandas
 1. Start cmd and open the directory where the project is located.
 2. run the command python app.py
 3. Start your browser and search localhost:5000
+
+# NOTE:
+
+If you only want the training model, use trainer.py.
