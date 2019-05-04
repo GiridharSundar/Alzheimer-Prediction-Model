@@ -4,8 +4,8 @@ import matplotlib as plt
 import pickle
 
 #Read the data from file.
-alz = pd.read_csv("Data Sets\\oasis_longitudinal.csv")
-alz2 = pd.read_csv("Data Sets\\oasis_cross-sectional.csv")
+alz = pd.read_csv("oasis_longitudinal.csv")
+alz2 = pd.read_csv("oasis_cross-sectional.csv")
 
 #fill the empty spaces using the method 'ffill'
 alz = alz.fillna(method='ffill')
